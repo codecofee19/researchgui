@@ -6,8 +6,18 @@ class Line:
 		self.end_position = end_position 
 		self.poi = poi
 		self.batch_jobs = []
+	
+
+	def send_batch():
 
 
+
+
+	def calc_func(): 
+
+
+
+	def sample_func():
 
 
 
@@ -21,3 +31,12 @@ class Circle:
 		self.period = period
 		self.batch_jobs = [] 
 
+
+
+	def send_batch():
+
+	def calc_func(): 
+
+
+
+	def sample_func():
